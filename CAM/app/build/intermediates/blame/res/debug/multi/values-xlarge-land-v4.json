@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/avinaash/Desktop/CAM/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 63,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/avinaash/Desktop/CAM/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/res/anim/snackbar_out.xml"
+    }
+]

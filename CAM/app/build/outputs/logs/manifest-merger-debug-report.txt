@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:6:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:8:19-57
+application
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:10:5-34:19
+MERGED from [com.android.support:design:22.2.1] /home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /home/avinaash/.android/build-cache/492ef2a8ef55a8c583a5042c7a5b2e293d00dff6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.amirdew:JSON:v1.0.0] /home/avinaash/.android/build-cache/4e74f2602cbc0304224eb4a5bd72a510b687cb8d/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avinaash/.android/build-cache/cc3dd03fc2bffc54904cb6d7754317e3dfdf2ea9/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.github.nf1213.camera.ReadJson
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:18:13-56
+	android:theme
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:17:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.github.nf1213.camera.NoCameraActivity
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:28:13-61
+	android:theme
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:27:13-45
+activity#com.github.nf1213.camera.GalleryActivity
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:30:19-50
+activity#com.github.nf1213.camera.ImageViewerActivity
+ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml:31:19-54
+uses-sdk
+INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.1] /home/avinaash/.android/build-cache/310892a87e75fa2962534bda8ebff97ec8bfd2ff/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /home/avinaash/.android/build-cache/d79b58094dc6648d4f76ca3de1e0c3f36d309657/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /home/avinaash/.android/build-cache/492ef2a8ef55a8c583a5042c7a5b2e293d00dff6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.amirdew:JSON:v1.0.0] /home/avinaash/.android/build-cache/4e74f2602cbc0304224eb4a5bd72a510b687cb8d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avinaash/.android/build-cache/cc3dd03fc2bffc54904cb6d7754317e3dfdf2ea9/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avinaash/Desktop/CAM/app/src/main/AndroidManifest.xml

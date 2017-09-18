@@ -1,0 +1,7 @@
+#Sun Apr 02 09:11:21 IST 2017
+base.0=/home/avinaash/Desktop/CAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_695afdff9da5818ce885f0f5e5d238d7b8e8e1b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/avinaash/Desktop/CAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98f25a372ae6ab03d4541c0ae0dcba97af6b64a5/classes.dex
+base.1=/home/avinaash/Desktop/CAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_98f25a372ae6ab03d4541c0ae0dcba97af6b64a5
+file.0=/home/avinaash/Desktop/CAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_695afdff9da5818ce885f0f5e5d238d7b8e8e1b1/classes.dex
